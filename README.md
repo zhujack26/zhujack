@@ -8,11 +8,3 @@
   <img src="https://img.shields.io/badge/-Vuex-orange"/>&nbsp
   <img src="https://img.shields.io/badge/Django-charcoal"/>&nbsp
 </p>
-
-
-
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
